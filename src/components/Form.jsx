@@ -6,10 +6,7 @@ function Form() {
     <form className="form">
       <Input type="text" placeholder="Username" />
       <Input type="password" placeholder="Password" />
-      <Input type="text" placeholder="Username" />
-
-      <input type="password" placeholder="Password" />
-      <input type="password" placeholder="Confirm Password" />
+      <Input type="password" placeholder="Confirm Password" />
       <button type="submit">Register</button>
     </form>
   );
